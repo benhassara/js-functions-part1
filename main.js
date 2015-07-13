@@ -96,7 +96,7 @@ function oddAbove40(n) {
 
 // console.log("below 40: " + oddBelow40());
 // console.log("above 40: " + oddAbove40());
-var randNum = Math.floor(Math.random() * 100);
-
-console.log("Random number: " + randNum);
-console.log("Output: " + oddNumbers(randNum));
+// var randNum = Math.floor(Math.random() * 100);
+//
+// console.log("Random number: " + randNum);
+// console.log("Output: " + oddNumbers(randNum));
