@@ -18,7 +18,7 @@ function discountPercentage(total, dis) {
   }
 }
 
-console.log(discountPercentage(100, 25));
+// console.log(discountPercentage(100, 25));
 
 function stringCapitalize(str) {
   var result = "";
@@ -42,4 +42,13 @@ function stringCapitalize(str) {
   return result;
 }
 
-console.log(stringCapitalize("this is a string"));
+// console.log(stringCapitalize("this is a string"));
+
+function evenNumbers(n, r) {
+  var result = "";
+  if (n <= 0 || n >= 100)
+    return "Give an argument 0-100";
+  else {
+
+  }
+}
